@@ -64,7 +64,7 @@ const App = () => {
   };
 
   const handleShareOnWhatsApp = () => {
-    const host = window.location.origin;
+    const host ="https://bjprajapati381.github.io/navratri-wish";
     const customUrl = `${host}?n=${encodeURIComponent(inputName.split(' ').join("-"))}`;
     const message = `*${inputName?.trim()}*, \nમેં તમને એક ખાસ ભેટ મોકલી છે 🎁 \n💁 નીચેની વાદળી રેખાને સ્પર્શ કરીને ઝડપી જુઓ \n👇👇👇 \n${customUrl}`;
     const encodedMessage = encodeURIComponent(message);
