@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/navratri-wish/static/css/main.1407a464.css",
-    "main.js": "/navratri-wish/static/js/main.6d77800f.js",
+    "main.js": "/navratri-wish/static/js/main.3c123238.js",
     "static/js/453.2db569a6.chunk.js": "/navratri-wish/static/js/453.2db569a6.chunk.js",
     "static/media/durga-mata.png": "/navratri-wish/static/media/durga-mata.4078f72f5f3b15e8135b.png",
     "static/media/gjnv.mp3": "/navratri-wish/static/media/gjnv.65653f00e967e9698bba.mp3",
@@ -18,11 +18,11 @@
     "static/media/4.png": "/navratri-wish/static/media/4.ff8a3d8e85d3025b4361.png",
     "index.html": "/navratri-wish/index.html",
     "main.1407a464.css.map": "/navratri-wish/static/css/main.1407a464.css.map",
-    "main.6d77800f.js.map": "/navratri-wish/static/js/main.6d77800f.js.map",
+    "main.3c123238.js.map": "/navratri-wish/static/js/main.3c123238.js.map",
     "453.2db569a6.chunk.js.map": "/navratri-wish/static/js/453.2db569a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1407a464.css",
-    "static/js/main.6d77800f.js"
+    "static/js/main.3c123238.js"
   ]
 }
