@@ -66,7 +66,7 @@ const App = () => {
   const handleShareOnWhatsApp = () => {
     const host = window.location.origin;
     const customUrl = `${host}?n=${encodeURIComponent(name.split(' ').join("-"))}`;
-    const message = `*${inputName}*, \nમેં તમને એક ખાસ ભેટ મોકલી છે 🎁 \n💁 નીચેની વાદળી રેખાને સ્પર્શ કરીને ઝડપી જુઓ \n👇👇👇 \n${customUrl}`;
+    const message = `*${inputName?.trim()}*, \nમેં તમને એક ખાસ ભેટ મોકલી છે 🎁 \n💁 નીચેની વાદળી રેખાને સ્પર્શ કરીને ઝડપી જુઓ \n👇👇👇 \n${customUrl}`;
     const encodedMessage = encodeURIComponent(message);
     const whatsappUrl = `https://wa.me/?text=${encodedMessage}`;
     window.open(whatsappUrl, "_blank");
