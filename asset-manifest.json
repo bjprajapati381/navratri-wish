@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/navratri-wish/static/css/main.1407a464.css",
+    "main.js": "/navratri-wish/static/js/main.6d77800f.js",
+    "static/js/453.2db569a6.chunk.js": "/navratri-wish/static/js/453.2db569a6.chunk.js",
+    "static/media/durga-mata.png": "/navratri-wish/static/media/durga-mata.4078f72f5f3b15e8135b.png",
+    "static/media/gjnv.mp3": "/navratri-wish/static/media/gjnv.65653f00e967e9698bba.mp3",
+    "static/media/n4.png": "/navratri-wish/static/media/n4.fd58b6b55bfb6417c051.png",
+    "static/media/nvgjm.png": "/navratri-wish/static/media/nvgjm.328eca57c991220a8d18.png",
+    "static/media/n1.png": "/navratri-wish/static/media/n1.91641852d6de7b5cd2dd.png",
+    "static/media/sname.gif": "/navratri-wish/static/media/sname.c0da3a3997d1b399331a.gif",
+    "static/media/navratri-background.jpg": "/navratri-wish/static/media/navratri-background.49a25f1c29b0bf6c4425.jpg",
+    "static/media/1.png": "/navratri-wish/static/media/1.c62699483e5cde223c85.png",
+    "static/media/6.png": "/navratri-wish/static/media/6.ccca293938f749435b9f.png",
+    "static/media/3.png": "/navratri-wish/static/media/3.c742f8d9c4e51eef6235.png",
+    "static/media/2.png": "/navratri-wish/static/media/2.5d26d49228188d4fba30.png",
+    "static/media/5.png": "/navratri-wish/static/media/5.a3695f1e8bb9c7724f60.png",
+    "static/media/4.png": "/navratri-wish/static/media/4.ff8a3d8e85d3025b4361.png",
+    "index.html": "/navratri-wish/index.html",
+    "main.1407a464.css.map": "/navratri-wish/static/css/main.1407a464.css.map",
+    "main.6d77800f.js.map": "/navratri-wish/static/js/main.6d77800f.js.map",
+    "453.2db569a6.chunk.js.map": "/navratri-wish/static/js/453.2db569a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1407a464.css",
+    "static/js/main.6d77800f.js"
+  ]
+}
